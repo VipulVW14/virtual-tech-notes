@@ -105,3 +105,6 @@ A terminal(black window) is a tool where we going to write our command
   
   ## pwd (Print Working Directory)
   `pwd`
+
+  adding some test notes through 02-introduction branch
+  
