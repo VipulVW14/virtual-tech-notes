@@ -20,3 +20,8 @@ This displays 2 columns -
 You can then simply run -
 
 `wsl --install -d <distro>`
+
+adding test notes through 01-setup branch
+
+adding test notes for the second time through 01-setup branch
+
