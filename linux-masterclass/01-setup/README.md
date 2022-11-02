@@ -25,4 +25,3 @@ adding test notes through 01-setup branch
 
 adding test notes for the second time through 01-setup branch
 
-adding test notes through test2 branch
